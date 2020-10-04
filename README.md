@@ -1,7 +1,9 @@
 # IoT-Control-relays
-Dự án nhỏ giúp điểu khiển motor bơm nước và đèn cổng trước sân nhà 
-Sử dụng NodeMCU và Blynk 
-Library sử dụng là ESP8266WiFi và Blynk 
+  Dự án nhỏ giúp điểu khiển motor bơm nước và đèn cổng trước sân nhà 
+**Sử dụng NodeMCU và Blynk** 
+----------------------------------
+**Library sử dụng là ESP8266WiFi và Blynk** 
+--------------------------------------
 # Sơ đồ kết nối
 - NodeMCU     ------- Modules
 - D2          ---------------> Relay1
